@@ -40,6 +40,7 @@
 (require 'json)
 (require 'lisp-mnt)
 (require 'subr-x)
+(require 'cl-lib)
 
 (defgroup elx nil
   "Extract information from Emacs Lisp libraries."
